@@ -1,4 +1,4 @@
-### Hi there 👋
+### 컴퓨터비전 대학원 진학 준비중인 학부생입니다.
 
 ![](https://img.shields.io/github/followers/daebakk?style=social)
 

@@ -1,11 +1,13 @@
-### 충남대학교 CVLAB 석박통합 재학 중
+### 충남대학교 CVLAB 석박통합 재학 중 ###
 
 Personal Website: https://daebakk.github.io/
-![](https://img.shields.io/github/followers/daebakk?style=social)
+
+
+
 
 <!--
 **daebakk/daebakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ ![](https://img.shields.io/github/followers/daebakk?style=social)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

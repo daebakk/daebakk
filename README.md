@@ -1,5 +1,3 @@
-### 충남대학교 CVLAB 석박통합 재학 중 ###
-
 I am a Ph.D. student at Chungnam National University. My current research focuses on generative image editing, with an emphasis on understanding and developing more controllable and flexible generative models.
 
 More broadly, I am interested in understanding, analyzing, and interpreting the internal mechanisms of foundation models—how they represent knowledge, concepts, and the world, and how these internal representations give rise to their capabilities. In the long term, I hope that a deeper understanding of foundation models can not only help us build more capable, interpretable, and reliable AI systems, but also provide new ways to understand the world and ultimately contribute to making it better.
